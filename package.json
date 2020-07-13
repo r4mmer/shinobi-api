@@ -1,6 +1,6 @@
 {
   "name": "shinobi-cctv-api",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A js client for Shinobi CCTV api",
   "main": "index.js",
   "scripts": {
